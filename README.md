@@ -8,5 +8,5 @@ QuickSilver는 이성재가 만든 모니위키 스킨입니다. 개인적인 �
 * 최대한 미니멀리스틱하게 제작했어요.
 
 # 스크린샷
-* http://github.com/seongjaelee/QuickSilver/screenshot.png
-* http://github.com/seongjaelee/QuickSilver/screenshot.iphone.png
+* http://github.com/seongjaelee/QuickSilver/raw/master/screenshot.png
+* http://github.com/seongjaelee/QuickSilver/raw/master/screenshot.iphone.png
